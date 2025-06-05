@@ -1,6 +1,6 @@
 # asteroids
 Build Asteroids using Python and Pygame  
-boot.dev project
+[boot.dev](https://www.boot.dev/courses/build-asteroids-python) project
 
 # To Do List
 - Add a scoring system
