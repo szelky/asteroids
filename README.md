@@ -1,4 +1,6 @@
 # asteroids
+Build Asteroids using Python and Pygame  
+boot.dev project
 
 # To Do List
 - Add a scoring system
